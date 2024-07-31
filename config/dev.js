@@ -1,4 +1,4 @@
 export default {
-  dbURL: 'mongodb://127.0.0.1:27017',
+  dbURL: 'mongodb+srv://Jonathan:XsODurAKwoW8Gp76@cluster0.paqzpay.mongodb.net/',
   dbName: 'storyDB'
 }
